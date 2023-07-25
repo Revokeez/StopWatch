@@ -1,2 +1,2 @@
 # StopWatch
-Basic StopWatch Program
+Basic StopWatch Program using Window Forms App .NET Framework
